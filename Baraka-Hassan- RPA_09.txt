@@ -1,0 +1,816 @@
+Autorizações,A-1-AU-0200,BCOE11,AUS,ALT,Alessandro,Marin
+Autorizações,A-1-AU-0200,BCOI70,AUS,ALT,Alessandro,Marin
+Autorizações,A-1-AU-0200,BRLD002,LA,New,Eliseu,Marin
+Autorizações,A-1-AU-0200,BCLI300,AUS,ALT,Marcio G.,Marin
+Autorizações,A-1-AU-0200,BCOS01,LA,New,Marcio G.,Marin
+Autorizações,A-1-AU-0200,BCOS78,AUS,ALT,Marcio G.,Marin
+Autorizações,A-1-AU-0200,BROI01,LA,New,Marcio G.,Marin
+Autorizações,A-1-AU-0200,BROI02,LA,New,Marcio G.,Marin
+Autorizações,A-1-AU-0500,BC215,AUS,ALT,Ale/Marin,Marin
+Autorizações,A-1-AU-0500,BCLI305,AUS,ALT,Ale/Marin,Marin
+Autorizações,A-1-AU-0600,BROD115,LA,ALT,Marcio G.,Marin
+Autorizações,A-1-AU-0600,BRODLGB,LA,ALT,Marcio G.,Marin
+Fraud,A-1-AU-0700,BCOI31,AUS,ALT,Ale/Marin,Marin
+Fraud,A-1-AU-0700,BCOI32,AUS,ALT,Ale/Marin,Marin
+Interfaces Online,A-1-AU-0900,BRBI340,LA,New,Alessandro,Marin
+Autorizações,A-1-AU-1700,BCE06,AUS,ALT,Marcio G.,Marin
+Autorizações,A-1-AU-1700,BCE20,AUS,ALT,Marcio G.,Marin
+Autorizações,A-1-AU-1800,BCE20,AUS,ALT,Marcio G.,Marin
+Autorizações,A-1-AU-1800,BCOCOMED,AUS,ALT,Marcio G.,Marin
+Interfaces Online,A-1-AU-2000,BROIR1,LA,New,Marcio,Marin
+Interfaces Online,A-1-AU-2000,BROIR2,LA,New,Marcio,Marin
+Interfaces Online,A-1-AU-2000,BROIR3,LA,New,Marcio,Marin
+Interfaces Online,A-1-AU-2000,BROIR4,LA,New,Marcio,Marin
+Interfaces Online,A-1-AU-2000,BROIR5,LA,New,Marcio,Marin
+Interfaces Online,A-1-AU-2000,BROIR6,LA,New,Marcio,Marin
+Interfaces Online,A-1-AU-2000,BROIR7,LA,New,Marcio,Marin
+Interfaces Online,A-1-AU-2000,BROIR8,LA,New,Marcio,Marin
+Interfaces Online,A-1-AU-2000,BROIR9,LA,New,Marcio,Marin
+Interfaces Online,A-1-AU-2000,BROIRA,LA,New,Marcio,Marin
+Interfaces Online,A-1-AU-2000,BROIRB,LA,New,Marcio,Marin
+Interfaces Online,A-1-AU-2000,BROIRC,LA,New,Marcio,Marin
+Interfaces Online,A-1-AU-2000,BROIRD,LA,New,Marcio,Marin
+Interfaces Online,A-1-AU-2000,BROIRE,LA,New,Marcio,Marin
+Interfaces Online,A-1-AU-2000,BROIRF,LA,New,Marcio,Marin
+Interfaces Online,A-1-AU-2000,BROIRG,LA,New,Marcio,Marin
+Interfaces Online,A-1-AU-2000,BROIRH,LA,New,Marcio,Marin
+Interfaces Online,A-1-AU-2000,BROIRI,LA,New,Marcio,Marin
+Interfaces Online,A-1-AU-2000,BROIRJ,LA,New,Marcio,Marin
+Autorizações,A-1-AU-2400,BCLI310,AUS,ALT,Ale/Marin,Marin
+Autorizações,A-2-AU-0300,BCLI311,AUS,ALT,Uchoa,Marin
+Autorizações,A-2-AU-0400,BCLI310,AUS,ALT,Uchoa,Marin
+Autorizações,A-2-AU-1000,BCLI305,AUS,ALT,Uchoa,Marin
+Autorizações,A-2-AU-1000,BCLI380,AUS,ALT,Uchoa,Marin
+Interfaces Online,A-2-AU-1600,BCOI08,AUS,ALT,Alessandro,Marin
+Interfaces Online,A-2-AU-1600,BROD115,LA,ALT,Danilo,Marin
+Interfaces Online,A-2-AU-1600,BROIVNET,LA,New,Danilo,Marin
+Fraud,A-2-AU-2200,BCOI08,AUS,ALT,Ale/Marin,Marin
+Fraud,A-2-AU-2200,BROD020,LA,ALT,Ale/Marin,Marin
+Fraud,A-2-AU-2200,BROSGCH,LA,New,Ale/Marin,Marin
+Fraud,A-2-AU-2200,BROSSV,LA,New,Ale/Marin,Marin
+Autorizações,A-3-AU-0100,BCOI35,AUS,ALT,Ale/Marin,Marin
+Autorizações,A-3-AU-0100,BCOI60,AUS,ALT,Ale/Marin,Marin
+Autorizações,A-3-AU-0100,BCOI62,AUS,ALT,Ale/Marin,Marin
+Autorizações,A-3-AU-0100,BCOI63,AUS,ALT,Ale/Marin,Marin
+Autorizações,A-3-AU-0100,BCOI72,AUS,ALT,Ale/Marin,Marin
+Autorizações,A-3-AU-0100,BCOI74,AUS,ALT,Ale/Marin,Marin
+Autorizações,A-3-AU-0100,BCOI78,AUS,ALT,Ale/Marin,Marin
+Autorizações,A-3-AU-0100,BCOI79,AUS,ALT,Ale/Marin,Marin
+Autorizações,A-3-AU-0100,BCOS01,AUS,ALT,Ale/Marin,Marin
+Autorizações,A-3-AU1200,BCLI302,AUS,ALT,Ale/Marin,Marin
+Autorizações,A-3-AU1200,BCOS78,AUS,ALT,Ale/Marin,Marin
+Interfaces Online,A-3-AU-1300,BCOI07,LA,ALT,Eliseu,Marin
+Interfaces Online,A-3-AU-1300,BCOI80,AUS,ALT,Eliseu,Marin
+Interfaces Online,A-3-AU-1300,BCOI80M,AUS,ALT,Eliseu,Marin
+Interfaces Online,A-3-AU-1300,BCOI80V,AUS,ALT,Eliseu,Marin
+Interfaces Online,A-3-AU-1300,BCOI81,AUS,ALT,Eliseu,Marin
+Interfaces Online,A-3-AU-1300,BCOI98,AUS,ALT,Eliseu,Marin
+Interfaces Online,A-3-AU-1300,BROD095,LA,ALT,Eliseu,Marin
+Interfaces Online,A-3-AU-1300,BROD096,LA,ALT,Eliseu,Marin
+Interfaces Online,A-3-AU-1300,BROD098,AUS,New,Eliseu,Marin
+Interfaces Online,A-3-AU-1900,NOVO,LA,New,,Marin
+Interfaces Online,A-3-AU-1900,NOVO,LA,New,,Marin
+Interfaces Online,A-3-AU-1900,NOVO,LA,New,,Marin
+Autorizações,A-3-AU-2500,BCLI300,LA,New,Ale/Marin,Marin
+Autorizações,A-3-AU-2500,BCOI70,AUS,ALT,Danilo,Marin
+Autorizações,A-3-AU-2500,BCOS01,AUS,ALT,Danilo,Marin
+Autorizações,A-3-AU-2500,BROI03,LA,New,Danilo,Marin
+Autorizações,A-3-AU-2500,BROI04,LA,New,Danilo,Marin
+Loyalty,A-1-BN-0100,BC5200,USA,New,Charlotte,Homero
+Loyalty,A-1-BN-0100,BC9070,USA,New,Charlotte,Homero
+Loyalty,A-1-BN-0100,BC9075,USA,New,Charlotte,Homero
+Loyalty,A-1-BN-0100,BC911,USA,New,Charlotte,Homero
+Loyalty,A-1-BN-0100,BCE96,USA,New,Charlotte,Homero
+Loyalty,A-1-BN-0100,BCO005,USA,New,Charlotte,Homero
+Loyalty,A-1-BN-0100,BCO006,USA,Mod,Charlotte,Homero
+Loyalty,A-1-BN-0100,BCO007,USA,New,Charlotte,Homero
+Loyalty,A-1-BN-0100,BCO008,USA,New,Charlotte,Homero
+Loyalty,A-1-BN-0100,BCO420,USA,New,Charlotte,Homero
+Loyalty,A-1-BN-0100,BCO420,USA,Mod,Charlotte,Homero
+Loyalty,A-1-BN-0100,BCO860,USA,New,Charlotte,Homero
+Loyalty,A-1-BN-0100,BCO860P1,USA,Mod,Charlotte,Homero
+Loyalty,A-1-BN-0100,BCO861,USA,New,Charlotte,Homero
+Loyalty,A-1-BN-0100,BCO870,USA,New,Charlotte,Homero
+Loyalty,A-1-BN-0100,BCOL10,USA,New,Charlotte,Homero
+Loyalty,A-1-BN-0100,BCOL20,USA,New,Charlotte,Homero
+Loyalty,A-1-BN-0100,BCOL30,USA,Mod,Charlotte,Homero
+Loyalty,A-1-BN-0100,BCOL40,USA,New,Charlotte,Homero
+Loyalty,A-1-BN-0100,BCOL50,USA,New,Charlotte,Homero
+Loyalty,A-1-BN-0100,BCOL55,USA,New,Charlotte,Homero
+Loyalty,A-1-BN-0100,BCOS01,USA,Mod,Charlotte,Homero
+Loyalty,A-1-BN-0100,BCS21,USA,Mod,Charlotte,Homero
+Loyalty,A-1-BN-0100,BCSILP01,USA,Mod,Charlotte,Homero
+Loyalty,A-1-BN-0100,BCSILP02,USA,Mod,Charlotte,Homero
+Loyalty,A-1-BN-0100,BCSILP03,USA,Mod,Charlotte,Homero
+Loyalty,A-1-BN-0100,BCSILP04,USA,Mod,Charlotte,Homero
+Loyalty,A-1-BN-0100,BCSILP05,USA,Mod,Charlotte,Homero
+Loyalty,A-1-BN-0100,BCSILP06,USA,Mod,Charlotte,Homero
+Loyalty,A-1-BN-0100,BCSILP07,USA,Mod,Charlotte,Homero
+Loyalty,A-1-BN-0100,BCSILP08,USA,Mod,Charlotte,Homero
+Loyalty,A-1-BN-0100,BCSILP09,USA,Mod,Charlotte,Homero
+Loyalty,A-1-BN-0100,BCSILP10,USA,Mod,Charlotte,Homero
+Loyalty,A-1-BN-0100,BCSILP11,USA,Mod,Charlotte,Homero
+Loyalty,A-1-BN-0100,BCSILP12,USA,Mod,Charlotte,Homero
+Loyalty,A-1-BN-0100,BCT005,USA,Mod,Charlotte,Homero
+Loyalty,A-1-BN-0100,BRO1000,LA,New,Christiane,Homero
+Loyalty,A-1-BN-0100,BRB1010,LA,New,Resource,Homero
+Loyalty,A-1-BN-0100,BRB1012,LA,New,Resource,Homero
+Loyalty,A-1-BN-0200,BRB1020,LA,New,Resource,Homero
+Loyalty,A-1-BN-0300,BRO1032,LA,New   ,Resource,Homero
+Loyalty,A-1-BN-0300,BRO1034,LA,New   ,Resource,Homero
+Loyalty,A-1-BN-0300,BRO1036,LA,New   ,Resource,Homero
+Loyalty,A-1-BN-0300,BRO1038,LA,New   ,Resource,Homero
+Loyalty,A-1-BN-0400,BRB1042,LA,New,BSI,Homero
+Loyalty,A-1-BN-0400,BRO1042,LA,New,BSI,Homero
+Loyalty,A-1-BN-0400,BRO1044,LA,New,BSI,Homero
+Loyalty,A-1-BN-0400,BRO1046,LA,New,BSI,Homero
+Loyalty,A-1-BN-0400,BRO1047,LA,New,BSI,Homero
+Loyalty,A-1-BN-0400,BRO1048,LA,New,BSI,Homero
+Loyalty,A-1-BN-0400,BRO1043,LA,New,Christiane,Homero
+Loyalty,A-1-BN-0400,BRO1045,LA,New,Christiane,Homero
+Loyalty,A-1-BN-0400,BRO1049I,LA,New,Christiane,Homero
+Loyalty,A-1-BN-0400,BRB1040,LA,New,Salim,Homero
+Loyalty,A-1-BN-0400,BRO1000,LA,New,Salim,Homero
+Loyalty,A-1-BN-0400,BRO1049,LA,New,Salim,Homero
+Loyalty,A-1-BN-0500,BC109,USA,New,Charlotte,Homero
+Loyalty,A-1-BN-0500,BC110 ,USA,New,Charlotte,Homero
+Loyalty,A-1-BN-0500,BC111  ,USA,New,Charlotte,Homero
+Loyalty,A-1-BN-0500,BC112,USA,New,Charlotte,Homero
+Loyalty,A-1-BN-0500,BC210 ,USA,New,Charlotte,Homero
+Loyalty,A-1-BN-0500,BC275 ,USA,New,Charlotte,Homero
+Loyalty,A-1-BN-0500,BC27501S ,USA,New,Charlotte,Homero
+Loyalty,A-1-BN-0500,BC27502S ,USA,New,Charlotte,Homero
+Loyalty,A-1-BN-0500,BC27511S ,USA,New,Charlotte,Homero
+Loyalty,A-1-BN-0500,BC27513S,USA,New,Charlotte,Homero
+Loyalty,A-1-BN-0500,BC27542S,USA,New,Charlotte,Homero
+Loyalty,A-1-BN-0500,BC459 ,USA,New,Charlotte,Homero
+Loyalty,A-1-BN-0500,BCOS01,USA,Mod,Charlotte,Homero
+Loyalty,A-1-BN-0500,BCS109,USA,Mod,Charlotte,Homero
+Loyalty,A-1-BN-0500,BCS110,USA,Mod,Charlotte,Homero
+Loyalty,A-1-BN-0500,BCS111,USA,Mod,Charlotte,Homero
+Loyalty,A-1-BN-0500,BCO006,LA,Mod,Christiane,Homero
+Loyalty,A-1-BN-0500,BCO007,LA,Mod,Christiane,Homero
+Loyalty,A-1-BN-0500,BCO008,LA,Mod,Christiane,Homero
+Loyalty,A-1-BN-0500,BCO520,LA,New   ,Christiane,Homero
+Loyalty,A-1-BN-0500,BCO530,LA,New   ,Christiane,Homero
+Loyalty,A-1-BN-0500,BCOS01,LA,Mod,Christiane,Homero
+Loyalty,A-1-BN-0500,BRB1525,LA,New   ,Christiane,Homero
+Loyalty,A-1-BN-0500,BRB1508,LA,New   ,Estevão,Homero
+Loyalty,A-1-BN-0500,BRB1510,LA,New   ,Estevão,Homero
+Loyalty,A-1-BN-0500,BRB1511,LA,New   ,Estevão,Homero
+Loyalty,A-1-BN-0500,BRB1512,LA,New   ,Estevão,Homero
+Loyalty,A-1-BN-0500,BRB1513,LA,New   ,Estevão,Homero
+Loyalty,A-1-BN-0500,BRB1514,LA,New   ,Estevão,Homero
+Loyalty,A-1-BN-0500,BRB1515,LA,New   ,Estevão,Homero
+Loyalty,A-1-BN-0500,BRB1520,LA,New   ,Estevão,Homero
+Loyalty,A-1-BN-0500,BRB1521,LA,New   ,Estevão,Homero
+Loyalty,A-1-BN-0500,BRB1522,LA,New   ,Estevão,Homero
+Loyalty,A-1-BN-0500,BRB1523,LA,New   ,Estevão,Homero
+Loyalty,A-1-BN-0500,BRB1524,LA,New   ,Estevão,Homero
+Loyalty,A-1-BN-0500,BRB1540,LA,New   ,Estevão,Homero
+Loyalty,A-1-BN-0500,BRB1541,LA,New   ,Estevão,Homero
+Loyalty,A-1-BN-0500,BRB1560,LA,New   ,Estevão,Homero
+Loyalty,A-1-BN-0500,BRB1561,LA,New   ,Estevão,Homero
+Loyalty,A-1-BN-0500,BRB1501,LA,New   ,Patricia,Homero
+Loyalty,A-1-BN-0500,BRB1502,LA,New   ,Patricia,Homero
+Loyalty,A-1-BN-0500,BRO1050,LA,New   ,Patricia,Homero
+Loyalty,A-1-BN-0500,BRO1051,LA,New   ,Patricia,Homero
+Loyalty,A-1-BN-0500,BRO1054,LA,New   ,Patricia,Homero
+Loyalty,A-1-BN-0500,BRO1056,LA,New   ,Patricia,Homero
+Loyalty,A-1-BN-0600,BRO1062,LA,New,BSI,Homero
+Loyalty,A-1-BN-0700,BRB1073,LA,New,BSI,Homero
+Loyalty,A-1-BN-0700,BRO1070,LA,New,BSI,Homero
+Loyalty,A-1-BN-0700,BRO1071,LA,New,BSI,Homero
+Loyalty,A-1-BN-0700,BRO1072,LA,New,BSI,Homero
+Loyalty,A-1-BN-0700,BRO1071O,LA,New,Christiane,Homero
+Loyalty,A-1-BN-0800,BRO1080,LA,New,BSI,Homero
+Loyalty,A-1-BN-0800,BC109  ,USA,New,Charlotte,Homero
+Loyalty,A-1-BN-0800,BCE58,USA,New,Charlotte,Homero
+Loyalty,A-1-BN-0800,BCOL30,USA,New,Charlotte,Homero
+Loyalty,A-1-BN-0800,BCOL45,USA,New,Charlotte,Homero
+Loyalty,A-1-BN-0800,BCOL60,USA,New,Charlotte,Homero
+Loyalty,A-1-BN-0800,BCOL65,USA,New,Charlotte,Homero
+Loyalty,A-1-BN-0800,BCSLCU,USA,New,Charlotte,Homero
+Loyalty,A-1-BN-0800,BCSLRU,USA,New,Charlotte,Homero
+Loyalty,A-1-BN-0900,BRB1096,LA,New,Christiane,Homero
+Loyalty,A-1-BN-0900,BR01091,LA,New   ,Salim,Homero
+Loyalty,A-1-BN-0900,BR01096,LA,New   ,Salim,Homero
+Loyalty,A-1-BN-0900,BRB1095,LA,New   ,Salim,Homero
+Loyalty,A-1-BN-0900,BRB1097,LA,New   ,Salim,Homero
+Loyalty,A-1-BN-0900,BRO1092,LA,New   ,Salim,Homero
+Loyalty,A-1-BN-1000,BCOLCCA,USA,Mod,Charlotte,Homero
+Loyalty,A-1-BN-1000,BRB1105,LA,New,Estevão,Homero
+Loyalty,A-1-BN-1000,BRB1106,LA,New,Estevão,Homero
+Loyalty,A-1-BN-1000,BRB1104,LA,New,Paulo Moreira,Homero
+Loyalty,A-1-BN-1000,BRO1102,LA,New,Paulo Moreira,Homero
+Loyalty,A-1-BN-1200,BRB1121,LA,New,BSI,Homero
+Loyalty,A-1-BN-1200,BRB1122,LA,New,BSI,Homero
+Loyalty,A-1-BN-1200,BRB1123,LA,New,BSI,Homero
+Loyalty,A-1-BN-1200,BRB1124,LA,New,BSI,Homero
+Loyalty,A-1-BN-1300,BRB1137,LA,New,BSI,Homero
+Loyalty,A-1-BN-1300,BRB1138,LA,New,BSI,Homero
+Loyalty,A-1-BN-1300,BRO1132,LA,New,BSI,Homero
+Loyalty,A-1-BN-1300,BRO1134,LA,New,BSI,Homero
+Loyalty,A-1-BN-1400,BRB1142,LA,New,Estevão,Homero
+Loyalty,A-1-BN-1400,BRB1143,LA,New,Estevão,Homero
+Loyalty,A-1-BN-1400,BRB1144,LA,New,Estevão,Homero
+Loyalty,A-1-BN-1400,BRB1145,LA,New,Estevão,Homero
+Loyalty,A-1-BN-1400,BRB1146,LA,New,Estevão,Homero
+Loyalty,A-1-BN-1400,BRO1141,LA,New,Estevão,Homero
+Loyalty,A-1-BN-1400,BRB1910,LA,New,Paulo Moreira,Homero
+Loyalty,A-1-BN-1400,BRO1910,LA,New,Paulo Moreira,Homero
+Loyalty,A-1-BN-1400,BRO1920,LA,New,Paulo Moreira,Homero
+Loyalty,A-3-BN-0200,BCOL60,USA,Mod,Charlotte,Homero
+Loyalty,A-3-BN-0800,BC11109S,LA,New,Estevão,Homero
+PJ,A-1-CM-0100,BROJ01M,N,New,Artur,Edmilson
+PJ,A-1-CM-0100,BC210,S,Mod,George,Edmilson
+PJ,A-1-CM-0100,BC340,S,Mod,George,Edmilson
+PJ,A-1-CM-0100,BC341,S,Mod,George,Edmilson
+PJ,A-1-CM-0100,BCOC20,S,Mod,George,Edmilson
+PJ,A-1-CM-0100,BCOC22,S,Mod,George,Edmilson
+PJ,A-1-CM-0100,BCSVLIN,S,Mod,George,Edmilson
+PJ,A-1-CM-0100,BRBJ105,N,New,George,Edmilson
+PJ,A-1-CM-0100,BRBJ106,N,New,George,Edmilson
+PJ,A-1-CM-0100,BRBJ107,N,New,George,Edmilson
+PJ,A-1-CM-0100,BRBJ108,N,New,George,Edmilson
+PJ,A-1-CM-0100,BRBJ109,N,New,George,Edmilson
+PJ,A-1-CM-0100,BRBJ110,N,New,George,Edmilson
+PJ,A-1-CM-0100,BRBJ112,N,New,George,Edmilson
+PJ,A-1-CM-0100,BROJ02A,N,New,George,Edmilson
+PJ,A-1-CM-0100,BROJ03C,N,New,George,Edmilson
+PJ,A-1-CM-0200,BCOC20,S,Mod,Borba,Edmilson
+PJ,A-1-CM-0200,BCOC20,S,Mod,Borba,Edmilson
+PJ,A-1-CM-0200,BCSVLIN,S,Mod,Borba,Edmilson
+PJ,A-1-CM-0200,BRBJ119,N,New,Borba,Edmilson
+PJ,A-1-CM-0200,BRBJ120,N,New,Borba,Edmilson
+PJ,A-1-CM-0200,BRBJ121,N,New,Borba,Edmilson
+PJ,A-1-CM-0200,BROJ05M,N,New,Borba,Edmilson
+PJ,A-1-CM-0200,BROJ06I,N,New,Borba,Edmilson
+PJ,A-1-CM-0200,BROJ06I,N,New,Borba,Edmilson
+PJ,A-1-CM-0200,BROJ07I,N,New,Borba,Edmilson
+PJ,A-1-CM-0200,BROJ01D,N,New,George,Edmilson
+PJ,A-1-CM-0200,BROJ02I,N,New,George,Edmilson
+PJ,A-1-CM-0200,BROJ04C,N,New,George,Edmilson
+PJ,A-1-CM-0200,BROJ06A,N,New,George,Edmilson
+PJ,A-1-CM-1000,BRBJ165,N,New,Borba,Edmilson
+PJ,A-1-CM-1000,BRBJ166,N,New,Borba,Edmilson
+PJ,A-1-CM-1400,BCE53,S,Mod,Borba,Edmilson
+PJ,A-1-CM-1400,BCOC21,S,New,George,Edmilson
+PJ,A-1-CM-1400,BCOC22,S,New,George,Edmilson
+PJ,A-1-CM-1400,BCOC27,S,New,George,Edmilson
+PJ,A-1-CM-1400,BCOC28,S,New,George,Edmilson
+PJ,A-1-CM-1400,BCOC30,S,New,George,Edmilson
+PJ,A-1-CM-1400,BRBJ169,N,Mod,George,Edmilson
+PJ,A-1-CM-1400,BRBJ170,N,Mod,George,Edmilson
+PJ,A-1-CM-1500,BCE59,S,Mod,Borba,Edmilson
+PJ,A-1-CM-1600,BRBJ100,N,New,Borba,Edmilson
+PJ,A-1-CM-1800,BCOC26,S,Mod,Artur,Edmilson
+PJ,A-1-CM-1800,BCE55,S,Mod,Borba,Edmilson
+PJ,A-1-CM-1800,BCE59,S,Mod,Borba,Edmilson
+PJ,A-1-CM-1800,BCOC21,S,Mod,Borba,Edmilson
+PJ,A-1-CM-1800,BCOC23,S,Mod,Borba,Edmilson
+PJ,A-1-CM-1800,BCOC27,S,Mod,Borba,Edmilson
+PJ,A-1-CM-1800,BCOC29,S,Mod,Borba,Edmilson
+PJ,A-1-CM-1800,   BCMCOMED ,S,Mod,Fábrica Int,Edmilson
+PJ,A-1-CM-1800,   BCPCOME2 ,S,Mod,Fábrica Int,Edmilson
+PJ,A-1-CM-1800,BC340,S,Mod,Fábrica int,Edmilson
+PJ,A-1-CM-1800,BC4055,S,Mod,Fábrica int,Edmilson
+PJ,A-1-CM-1800,BC970,S,Mod,Fábrica int,Edmilson
+PJ,A-1-CM-1800,PC045,S,New,Fábrica int,Edmilson
+PJ,A-1-CM-1800,PC4057,S,Mod,Fábrica int,Edmilson
+PJ,A-1-CM-1800,   BCRCMPBL ,S,Mod,Leonardo,Edmilson
+PJ,A-1-CM-1800,BC210,S,Mod,Leonardo,Edmilson
+PJ,A-1-CM-1800,BC4020,S,Mod,Leonardo,Edmilson
+PJ,A-1-CM-1800,BCS20,S,Mod,Leonardo,Edmilson
+Capitalization,A-1-CP-0100,BRO2AI0,LA,New   ,Resource,Homero
+Capitalization,A-1-CP-0100,BRO2BI0,LA,New   ,Resource,Homero
+Capitalization,A-1-CP-0100,BRO2CX0,LA,New   ,Resource,Homero
+Capitalization,A-1-CP-0100,BRO2CX0,LA,New   ,Resource,Homero
+Capitalization,A-1-CP-0100,BRO2DX0,LA,New   ,Resource,Homero
+Capitalization,A-1-CP-0100,BRO2DX0,LA,New   ,Resource,Homero
+Capitalization,A-1-CP-0100,BRO2GX0,LA,New   ,Resource,Homero
+Capitalization,A-1-CP-0100,BRO2HI0,LA,New   ,Resource,Homero
+Capitalization,A-1-CP-0100,BRO2IX0,LA,New   ,Resource,Homero
+Capitalization,A-1-CP-0200,BRB2008,LA,New   ,Resource,Homero
+Capitalization,A-1-CP-0200,BRB2008,LA,New   ,Resource,Homero
+Capitalization,A-1-CP-0200,BRB2009,LA,New   ,Resource,Homero
+Capitalization,A-1-CP-0200,BRB2012,LA,New   ,Resource,Homero
+Capitalization,A-1-CP-0200,BRB2014,LA,New   ,Resource,Homero
+Capitalization,A-1-CP-0300,BRB2015,LA,New   ,Marcio,Homero
+Capitalization,A-1-CP-0300,BRB2016,LA,New   ,Marcio,Homero
+Capitalization,A-1-CP-0300,BRB2017,LA,New   ,Marcio,Homero
+Capitalization,A-1-CP-0300,BRB2018,LA,New   ,Marcio,Homero
+Capitalization,A-1-CP-0300,BRB2019,LA,New   ,Marcio,Homero
+Capitalization,A-1-CP-0300,BRB2020,LA,New,Marcio,Homero
+Capitalization,A-1-CP-0300,BRB2021,LA,New,Marcio,Homero
+Capitalization,A-1-CP-0300,BRB2022,LA,New,Marcio,Homero
+Capitalization,A-1-CP-0300,BRB2011,LA,New   ,Resource,Homero
+Capitalization,A-1-CP-0300,BRB2013,LA,New   ,Resource,Homero
+Capitalization,A-1-CP-0300,BRB2014,LA,New   ,Resource,Homero
+Capitalization,A-1-CP-0500,BRB2006,LA,New   ,Resource,Homero
+Capitalization,A-1-CP-0500,BRB2007,LA,New   ,Resource,Homero
+PF,A-1-FT-6700,BC027          ,USA,Mod,Débora,Edmilson
+PF,A-1-FT-6700,BC210          ,USA,Mod,Débora,Edmilson
+PF,A-1-FT-6700,BC21002S    ,USA,Mod,Débora,Edmilson
+PF,A-1-FT-6700,BC21026S    ,USA,Mod,Débora,Edmilson
+PF,A-1-FT-6700,BC215          ,USA,Mod,Débora,Edmilson
+PF,A-1-FT-6700,BC314PRT ,USA,Mod,Débora,Edmilson
+PF,A-1-FT-6700,BC460    ,USA,Mod,Débora,Edmilson
+PF,A-1-FT-6700,BCANAK,USA,Mod,Débora,Edmilson
+PF,A-1-FT-6700,BCE08          ,USA,Mod,Débora,Edmilson
+PF,A-1-FT-6700,BCE30,USA,Mod,Débora,Edmilson
+PF,A-1-FT-6700,BCE86,USA,Mod,Débora,Edmilson
+PF,A-1-FT-6700,BCLA12        ,USA,Mod,Débora,Edmilson
+PF,A-1-FT-6700,BCOA68,USA,Mod,Débora,Edmilson
+PF,A-1-FT-6700,BCOCOMED,USA,Mod,Débora,Edmilson
+PF,A-1-FT-6700,BCOQS10    ,USA,Mod,Débora,Edmilson
+PF,A-1-FT-6700,BCOS05       ,USA,Mod,Débora,Edmilson
+PF,A-1-FT-6700,BCOT01       ,USA,Mod,Débora,Edmilson
+PF,A-1-FT-6700,BCPE301     ,USA,Mod,Débora,Edmilson
+PF,A-1-FT-6700,BCPE302,USA,Mod,Débora,Edmilson
+PF,A-1-FT-6700,BCSVSGCH ,USA,Mod,Débora,Edmilson
+PF,A-1-FT-6700,BRBH001,LA,Mod,Débora,Edmilson
+PF,A-1-FT-6700,BRBI011  ,LA,Mod,Débora,Edmilson
+PF,A-1-FT-6700,BRBI141  ,LA,Mod,Débora,Edmilson
+PF,A-1-FT-6700,BRBI142  ,LA,Mod,Débora,Edmilson
+PF,A-1-FT-6700,BRBI203  ,LA,Mod,Débora,Edmilson
+PF,A-1-FT-6700,BRBI204  ,LA,Mod,Débora,Edmilson
+PF,A-1-FT-6700,BRBI244  ,LA,Mod,Débora,Edmilson
+PF,A-1-FT-6700,BRBI245  ,LA,Mod,Débora,Edmilson
+PF,A-1-FT-6700,BRBI256  ,LA,Mod,Débora,Edmilson
+PF,A-1-FT-6700,BRBI261  ,LA,Mod,Débora,Edmilson
+PF,A-1-FT-6700,BRBI291  ,LA,Mod,Débora,Edmilson
+PF,A-1-FT-6700,BRBI298  ,LA,Mod,Débora,Edmilson
+PF,A-1-FT-6700,BRBI780  ,LA,Mod,Débora,Edmilson
+PF,A-1-FT-6700,BRBI793  ,LA,Mod,Débora,Edmilson
+PF,A-1-FT-6700,BRBP024  ,LA,Mod,Débora,Edmilson
+PF,A-1-FT-6700,BRBP500  ,LA,Mod,Débora,Edmilson
+PF,A-1-FT-6700,BRCHPROC ,USA,Mod,Débora,Edmilson
+PF,A-1-FT-6700,CVBCM162   ,USA,Mod,Débora,Edmilson
+PF,A-1-FT-6800,BC314PRT ,USA,Mod,Débora,Edmilson
+PF,A-1-FT-6900,BCOT01,USA,Mod,Débora,Edmilson
+PF,A-1-FT-9900,BCE55,USA,Mod,Gersen,Edmilson
+PF,A-1-FT-9900,BCPCOME3,USA,Mod,Gersen,Edmilson
+PF,A-1-FT-A100,BCE54,USA,Mod,Gersen,Edmilson
+PF,A-1-FT-B600,BC225,USA,Mod,Jair,Edmilson
+PF,A-1-FT-B600,BCO060,USA,Mod,Jair,Edmilson
+PF,A-1-FT-B600,BRBI482,LA,New,Jair,Edmilson
+PF,A-1-FT-B600,BC210,USA,Mod,Jair/Gersen,Edmilson
+PF,A-1-FT-B600,BC21002S    ,USA,Mod,Jair/Gersen,Edmilson
+PF,A-1-FT-B600,BRBB006,LA,Mod,Jair/Gersen,Edmilson
+PF,A-1-FT-B600,BRBI481,LA,New,Jair/Júlio,Edmilson
+PF,A-1-FT-B700,BRBI393,LA,Mod,Jair,Edmilson
+PF,A-1-FT-B700,BRBI394,LA,Mod,Jair,Edmilson
+PF,A-1-FT-B700,BRBI463,LA,New,Jair,Edmilson
+PF,A-1-FT-B700,BRBI479,LA,New,Jair,Edmilson
+PF,A-1-FT-B700,BRBI480,LA,New,Jair,Edmilson
+PF,A-1-FT-B700,BRBI483,LA,New,Jair,Edmilson
+PF,A-1-FT-B700,BRBI772,LA,Mod,Jair,Edmilson
+PF,A-1-FT-B700,BRBI773,LA,Mod,Jair,Edmilson
+PF,A-1-IB-0300,BROI004,LA,New,Cláudio,Edmilson
+PF,A-1-IB-0300,BROI006,LA,New,Cláudio,Edmilson
+Offers,A-1-OF-0100,BRBMQ01,LA, New,Edson,Homero
+Offers,A-1-OF-0100,BC5200,LA,Mod,Leoda,Homero
+Offers,A-1-OF-0100,BCO950,LA,New,Leoda,Homero
+Offers,A-1-OF-0100,BC210,USA,Mod,Sung,Homero
+Offers,A-1-OF-0100,BCS21,USA,Mod,Sung,Homero
+Offers,A-1-OF-0100,BCS2131,USA,Mod,Sung,Homero
+Offers,A-1-OF-0100,BR210OFS,USA,New,Sung,Homero
+Offers,A-1-OF-0100,BRB4100,USA,Mod,Sung,Homero
+Offers,A-1-OF-0100,BRB4110,USA,Mod,Sung,Homero
+Offers,A-1-OF-0200,BRSCONOF,USA,New,Sung,Homero
+Offers,A-1-OF-0300,BRB3180,LA, New,Edson,Homero
+Offers,A-1-OF-0300,BRB3190,LA, New,Edson,Homero
+Offers,A-1-OF-0300,BRB3200,LA, New,Edson,Homero
+Offers,A-1-OF-0300,BRO3001S,LA, New,Edson,Homero
+Offers,A-1-OF-0300,BRB3050,LA, New,Leoda,Homero
+Offers,A-1-OF-0300,BCS2132,USA,Mod,Sung,Homero
+Offers,A-1-OF-0300,BCS2135,USA,Mod,Sung,Homero
+Offers,A-1-OF-0300,BCS2136,USA,Mod,Sung,Homero
+Offers,A-1-OF-0300,BCS2138,LA, New,Sung,Homero
+Offers,A-1-OF-0300,BCS3137,LA, New,Sung,Homero
+Offers,A-1-OF-0300,BCE73,LA,New,Wesley,Homero
+Offers,A-1-OF-0300,BCE74,LA,New,Wesley,Homero
+Offers,A-1-OF-0300,BRO3010,LA, New,Wesley,Homero
+Offers,A-1-OF-0400,BC9070,LA,Mod,Americo,Homero
+Offers,A-1-OF-0400,BRB3010,LA, New,Americo,Homero
+Offers,A-1-OF-0400,BRB3020,LA, New,Americo,Homero
+Offers,A-1-OF-0400,BRB3030,LA, New,Americo,Homero
+Offers,A-1-OF-0400,BRB3140,LA, New,Americo,Homero
+Offers,A-1-OF-0400,BRB3150,LA, New,Americo,Homero
+Offers,A-1-OF-0400,BRB3460,LA, New,Edson,Homero
+Offers,A-1-OF-0400,BRB3040,LA, New,Leoda,Homero
+Offers,A-1-OF-0400,BRB3110,LA, New,Leoda,Homero
+Offers,A-1-OF-0400,BRO3120,LA, New,Leoda,Homero
+Offers,A-1-OF-0400,BRSREPAS,USA,New,Sung,Homero
+Offers,A-1-OF-0500,BRB3070,LA, New,Americo,Homero
+Offers,A-1-OF-0500,BRB3080,LA, New,Americo,Homero
+Offers,A-1-OF-0500,BRB3100,LA, New,Edson,Homero
+Offers,A-1-OF-0500,BRB3170,LA, New,Edson,Homero
+Offers,A-1-OF-0500,BRB3060,LA, New,Leoda,Homero
+Offers,A-1-OF-0500,BRB3090,LA, New,Leoda,Homero
+Offers,A-1-OF-0500,BRB3160,LA, New,Leoda,Homero
+PJ,A-2-CM-0400,BROJ51I,N,New,Vitor,Edmilson
+PJ,A-2-CM-0400,BROJ52I,N,New,Vitor,Edmilson
+PJ,A-2-CM-0400,BROJ53I,N,New,Vitor,Edmilson
+PJ,A-2-CM-0400,BROJ54I,N,New,Vitor,Edmilson
+PJ,A-2-CM-0400,BROJ55I,N,New,Vitor,Edmilson
+PJ,A-2-CM-0400,BROJ56I,N,New,Vitor,Edmilson
+PJ,A-2-CM-0400,BROJ57I,N,New,Vitor,Edmilson
+PJ,A-2-CM-0400,BROJ58I,N,New,Vitor,Edmilson
+PJ,A-2-CM-0400,BROJ59I,N,New,Vitor,Edmilson
+PJ,A-2-CM-0400,BROJ60I,N,New,Vitor,Edmilson
+PJ,A-2-CM-0400,BROJ61I,N,New,Vitor,Edmilson
+PJ,A-2-CM-0400,BROJ62I,N,New,Vitor,Edmilson
+PJ,A-2-CM-0400,BROJ63I,N,New,Vitor,Edmilson
+PJ,A-2-CM-0400,BROJ64I,N,New,Vitor,Edmilson
+PJ,A-2-CM-0400,BROJ65I,N,New,Vitor,Edmilson
+PJ,A-2-CM-0400,BROJ66I,N,New,Vitor,Edmilson
+PJ,A-2-CM-0400,BROJ67I,N,New,Vitor,Edmilson
+PJ,A-2-CM-0400,BROJ68I,N,New,Vitor,Edmilson
+PJ,A-2-CM-0400,BROJ69I,N,New,Vitor,Edmilson
+PJ,A-2-CM-0400,BROJ70I,N,New,Vitor,Edmilson
+PJ,A-2-CM-0400,BROJ71I,N,New,Vitor,Edmilson
+PJ,A-2-CM-0400,BROJ72I,N,New,Vitor,Edmilson
+PJ,A-2-CM-0500,BRBJ156,N,New,Borba,Edmilson
+PJ,A-2-CM-0500,BRBJ157,N,New,Borba,Edmilson
+PJ,A-2-CM-0600,BC410,S,Mod,Atlanta,Edmilson
+PJ,A-2-CM-0600,BC425,S,Mod,Atlanta,Edmilson
+PJ,A-2-CM-0600,BC426,S,Mod,Atlanta,Edmilson
+PJ,A-2-CM-0600,BCOC22,S,Mod,Borba,Edmilson
+PJ,A-2-CM-0600,BCOC27,S,Mod,Borba,Edmilson
+PJ,A-2-CM-0600,BCOC28,S,Mod,Borba,Edmilson
+PJ,A-2-CM-0700,BCOC22,S,Mod,Borba,Edmilson
+PJ,A-2-CM-0700,BCOC27,S,Mod,Borba,Edmilson
+PJ,A-2-CM-0700,BCOC28,S,Mod,Borba,Edmilson
+PJ,A-2-CM-0700,BRBJ158,N,New,Borba,Edmilson
+PJ,A-2-CM-0700,BRBJ159,N,New,Borba,Edmilson
+PJ,A-2--CM-0800,BRBJ160,N,New,Vitor,Edmilson
+PJ,A-2--CM-0800,BRBJ161,N,New,Vitor,Edmilson
+PJ,A-2--CM-0800,BRBJ162,N,New,Vitor,Edmilson
+PJ,A-2-CM-1200,BCE26,s,New,George,Edmilson
+PJ,A-2-CM-1200,BCHB011C,S,Mod,George,Edmilson
+PJ,A-2-CM-1200,BCHB012C,S,Mod,George,Edmilson
+PJ,A-2-CM-1200,BCHB021C@,S,Mod,George,Edmilson
+PJ,A-2-CM-1200,BCHB024C,S,Mod,George,Edmilson
+PJ,A-2-CM-1200,BCO810,S,Mod,George,Edmilson
+PJ,A-2-CM-1200,BCO820,S,Mod,George,Edmilson
+PJ,A-2-CM-1200,BCOC22,N,New,George,Edmilson
+PJ,A-2-CM-1200,BRBJ168,N,New,George,Edmilson
+PJ,A-2-CM-1700,BC200,S,Mod,Artur,Edmilson
+PJ,A-2-CM-1700,BC21081S,S,Mod,Artur,Edmilson
+PJ,A-2-CM-1700,BC931,S,Mod,Artur,Edmilson
+PJ,A-2-CM-1700,BCE20,S,Mod,Artur,Edmilson
+PJ,A-2-CM-1700,BCE25,S,Mod,Artur,Edmilson
+PJ,A-2-CM-1700,BCE30,S,Mod,Artur,Edmilson
+PJ,A-2-CM-1700,BCE35,S,Mod,Artur,Edmilson
+PJ,A-2-CM-1700,BCE40,S,Mod,Artur,Edmilson
+PJ,A-2-CM-1700,BCE45,S,Mod,Artur,Edmilson
+PJ,A-2-CM-1700,BCE55,S,Mod,Artur,Edmilson
+PJ,A-2-CM-1700,BCOC33,S,Mod,Artur,Edmilson
+PJ,A-2-CM-1700,BCOC52,S,Mod,Artur,Edmilson
+PJ,A-2-CM-1700,BCOQP00,S,Mod,Artur,Edmilson
+PJ,A-2-CM-1700,BCOS78,S,Mod,Artur,Edmilson
+PJ,A-2-CM-1700,BCP210MU,S,Mod,Artur,Edmilson
+PJ,A-2-CM-1700,BCPCIX,S,Mod,Artur,Edmilson
+PJ,A-2-CM-1700,BCPCOME1,S,Mod,Artur,Edmilson
+PJ,A-2-CM-1700,BCPCOME2,S,Mod,Artur,Edmilson
+PJ,A-2-CM-1700,BCPCOME3,S,Mod,Artur,Edmilson
+PJ,A-2-CM-1700,BCPERTAB,S,Mod,Artur,Edmilson
+PJ,A-2-CM-1700,BCPMSTTR,S,Mod,Artur,Edmilson
+PJ,A-2-CM-1700,BCPNNBR,S,Mod,Artur,Edmilson
+PJ,A-2-CM-1700,BCSVSCIS,S,Mod,Artur,Edmilson
+PJ,A-2-CM-1700,BRBJ013,N,Mod,Artur,Edmilson
+PJ,A-2-CM-1700,BRBJ014,N,Mod,Artur,Edmilson
+PJ,A-2-CM-1700,PR9720,S,Mod,Artur,Edmilson
+PJ,A-2-CM-1700,PRPCISED,S,Mod,Artur,Edmilson
+PJ,A-2-CM-1700,PRSVSCNO,S,Mod,Artur,Edmilson
+PJ,A-2-CM-1700,PRSVSUCN,S,Mod,Artur,Edmilson
+Capitalization,A-2-CP-0400,BRB2010,LA,New   ,Resource,Homero
+Capitalization,A-2-CP-0400,BRO2EX0,LA,New   ,Resource,Homero
+Monetary,A-2-FI-0200,BC210,USA,Mod,Eduardo,Edmilson
+Monetary,A-2-FI-0200,BC215,USA,Mod,Eduardo,Edmilson
+Monetary,A-2-FI-0200,BCS20,USA,Mod,Eduardo,Edmilson
+Monetary,A-2-FI-0200,BRBH041,LA,New ,Open,Edmilson
+Monetary,A-2-FI-0200,BRBH042,LA,New ,Open,Edmilson
+Monetary,A-2-FI-0200,BRBH043,LA,New ,Open,Edmilson
+Monetary,A-2-FI-0200,BRBH047,LA,New ,Takase,Edmilson
+Monetary,A-2-FI-0200,PRE91,USA,Mod,Takase,Edmilson
+Monetary,A-2-FI-0300,BC210,USA,Mod,Eduardo,Edmilson
+Monetary,A-2-FI-0300,BCS20,USA,Mod,Eduardo,Edmilson
+Monetary,A-2-FI-0300,BCS2031,USA,Mod,Eduardo,Edmilson
+Monetary,A-2-FI-0300,BCS2040,USA,Mod,Eduardo,Edmilson
+Monetary,A-2-FI-0400,PRE91,USA,Mod,Takase,Edmilson
+Monetary,A-2-FI-0400 ,BRBH046,LA,New,Akira,Edmilson
+Monetary,A-2-FI-0400 ,BC210,USA,Mod,Eduardo,Edmilson
+Monetary,A-2-FI-0400 ,BCS21,USA,Mod,Eduardo,Edmilson
+Monetary,A-2-FI-0400 ,BCS2130,USA,Mod,Eduardo,Edmilson
+Monetary,A-2-FI-0400 ,BCOT01,USA,Mod,Takase,Edmilson
+Monetary,A-2-FI-0500,BROH020,LA,New,BSI,Edmilson
+Monetary,A-2-FI-0500,BC210,USA,Mod,Eduardo,Edmilson
+Monetary,A-2-FI-0500,PRE91,USA,Mod,Takase,Edmilson
+Monetary,A-2-FI-0600,BROH000,LA,New ,Alexandre,Edmilson
+Monetary,A-2-FI-0600,BRBH212,LA,New ,BSI,Edmilson
+Monetary,A-2-FI-0600,BRBH213,LA,New ,BSI,Edmilson
+Monetary,A-2-FI-0600,BROH002,LA,New ,BSI,Edmilson
+Monetary,A-2-FI-0600,BROH003,LA,New ,BSI,Edmilson
+Monetary,A-2-FI-0600,BROH005,LA,New ,BSI,Edmilson
+Monetary,A-2-FI-0600,BROH006,LA,New ,BSI,Edmilson
+Monetary,A-2-FI-0600,BROH007,LA,New ,BSI,Edmilson
+Monetary,A-2-FI-0600,BROH008,LA,New ,BSI,Edmilson
+Monetary,A-2-FI-0600,BROH009,LA,New ,BSI,Edmilson
+Monetary,A-2-FI-0600,BROH010,LA,New ,BSI,Edmilson
+Monetary,A-2-FI-0600,BROH011,LA,New ,BSI,Edmilson
+Monetary,A-2-FI-0600,BROH012,LA,New ,BSI,Edmilson
+Monetary,A-2-FI-0600,BC210,USA,Mod,Eduardo,Edmilson
+Monetary,A-2-FI-0600,BCO040,USA,Mod,Eduardo,Edmilson
+Monetary,A-2-FI-0600,BCS2125,USA,Mod,Eduardo,Edmilson
+Monetary,A-2-FI-0600,BRBI217,USA,Mod,Eduardo,Edmilson
+Monetary,A-2-FI-0600,BROH001,LA,New ,Eduardo,Edmilson
+Monetary,A-2-FI-0600,BRBH222,LA,New ,Eiji,Edmilson
+Monetary,A-2-FI-0600,BRBH214,LA,New ,Open,Edmilson
+Monetary,A-2-FI-0600,BRBH215,LA,New ,Open,Edmilson
+Monetary,A-2-FI-0600,BRBH216,LA,New ,Open,Edmilson
+Monetary,A-2-FI-0600,BRBH217,LA,New ,Open,Edmilson
+Monetary,A-2-FI-0600,BRBH218,LA,New ,Open,Edmilson
+Monetary,A-2-FI-0600,BRBH219,LA,New ,Open,Edmilson
+Monetary,A-2-FI-0600,BRBH220,LA,New ,Open,Edmilson
+Monetary,A-2-FI-0600,BRBH221,LA,New ,Open,Edmilson
+Monetary,A-2-FI-0600,BRBH224,LA,New ,Open,Edmilson
+Monetary,A-2-FI-0600,BRBH228,LA,New ,Open,Edmilson
+Monetary,A-2-FI-0600,BRBH229,LA,New ,Open,Edmilson
+Monetary,A-2-FI-0600,BRBH230,LA,New ,Open,Edmilson
+Monetary,A-2-FI-0600,BRBH231,LA,New ,Open,Edmilson
+Monetary,A-2-FI-0600,BRBH232,LA,New ,Open,Edmilson
+Monetary,A-2-FI-0600,BRBH233,LA,New ,Open,Edmilson
+Monetary,A-2-FI-0600,BRBH235,LA,New ,Open,Edmilson
+Monetary,A-2-FI-0600,BRBH236,LA,New ,Open,Edmilson
+Monetary,A-2-FI-0600,BROH004,LA,New ,Open,Edmilson
+Monetary,A-2-FI-0600,BRBH223,LA,New ,Resource,Edmilson
+Monetary,A-2-FI-0600,BRBH225,LA,New ,Resource,Edmilson
+Monetary,A-2-FI-0600,BRBH226,LA,New ,Resource,Edmilson
+Monetary,A-2-FI-0600,BRBH227,LA,New ,Resource,Edmilson
+Monetary,A-2-FI-0600,BCE09,USA,Mod,Takase,Edmilson
+Monetary,A-2-FI-0600,BCOT50,USA,Mod,Takase,Edmilson
+Monetary,A-2-FI-0600,BCOT50,USA,Mod,Takase,Edmilson
+Monetary,A-2-FI-0700,BRBH045,LA,New ,BSI,Edmilson
+Monetary,A-2-FI-0700,BROH021,LA,New ,BSI,Edmilson
+Monetary,A-2-FI-0800 ,BC210,USA,Mod,Eduardo,Edmilson
+Monetary,A-2-FI-0800 ,BCS2130,USA,Mod,Eduardo,Edmilson
+PF,A-2-FT-0100,BCE20,USA,Mod,Cláudio,Edmilson
+PF,A-2-FT-0100,BCOCOMED,USA,Mod,Cláudio,Edmilson
+PF,A-2-FT-0100,BCOQP00,USA,Mod,Cláudio,Edmilson
+PF,A-2-FT-0100,BCPCOME2,USA,Mod,Cláudio,Edmilson
+PF,A-2-FT-0100,BRBR005,LA,New,Cláudio,Edmilson
+PF,A-2-FT-0100,BRBR006,LA,New,Cláudio,Edmilson
+PF,A-2-FT-0100,BROI005S,LA,New,Cláudio,Edmilson
+PF,A-2-FT-0100,BROI007,LA,New,Cláudio,Edmilson
+Parcelado,A-2-FT-8800,BRO4001,LA,New,Biro,Marin
+Parcelado,A-2-FT-8900,UPPPO001,LA,Mod,Biro,Marin
+Parcelado,A-2-FT-9100,BRO4001,LA,New,Biro,Marin
+Parcelado,A-2-FT-9200,BRB4001,LA,New,Damasco,Marin
+Parcelado,A-2-FT-9300,BRB4001,LA,New,Damasco,Marin
+Parcelado,A-2-FT-9500,BRB4001,LA,New,Damasco,Marin
+Parcelado,A-2-FT-A200,UPPPO001,LA,Mod,Biro,Marin
+Parcelado,A-2-FT-A600,BCS21,USA,Mod,Damasco,Marin
+Parcelado,A-2-FT-A700, BRB4001,LA,New,Damasco,Marin
+Parcelado,A-2-FT-A800,BRO4003,LA,New,Damasco,Marin
+Parcelado,A-2-FT-B200,BRB4001,LA,New,Damasco,Marin
+Parcelado,A-2-FT-B300,BCS21,USA,Mod,Damasco,Marin
+Parcelado,A-2-FT-B400, BRB4001,LA,New,Damasco,Marin
+Parcelado,A-2-FT-B500,BRB4004,LA,New,Damasco,Marin
+Parcelado,A-2-PP-A200,  UPPPO00Y  ,LA,Mod,Felipe,Marin
+Parcelado,A-2-PP-A200,BRBH162,LA,Mod,Felipe,Marin
+Parcelado,A-2-PP-A200,BROH001S,LA,Mod,Felipe,Marin
+Parcelado,A-2-PP-A200,UPPPB002,LA,New,Felipe,Marin
+Parcelado,A-2-PP-A200,UPPPB003,LA,Mod,Felipe,Marin
+Parcelado,A-2-PP-A200,UPPPB006,LA,Mod,Felipe,Marin
+Parcelado,A-2-PP-A200,UPPPB009,LA,New,Felipe,Marin
+Parcelado,A-2-PP-A200,UPPPB011,LA,New,Felipe,Marin
+Parcelado,A-2-PP-A200,UPPPB021,LA,Mod,Felipe,Marin
+Parcelado,A-2-PP-A200,UPPPB201,LA,Mod,Felipe,Marin
+Parcelado,A-2-PP-A200,UPPPB302,LA,New,Felipe,Marin
+Parcelado,A-2-PP-A200,UPPPO002,LA,Mod,Felipe,Marin
+Parcelado,A-2-PP-A200,UPPPO004,LA,Mod,Felipe,Marin
+Parcelado,A-2-PP-A200,UPPPO006,LA,Mod,Felipe,Marin
+Parcelado,A-2-PP-A200,UPPPO007,LA,Mod,Felipe,Marin
+Parcelado,A-2-PP-A200,UPPPO00I,LA,Mod,Felipe,Marin
+Parcelado,A-2-PP-A200,UPPPO00J,LA,Mod,Felipe,Marin
+Parcelado,A-2-PP-A200,UPPPO00W,LA,Mod,Felipe,Marin
+Parcelado,A-2-PP-A200,UPPPO010,LA,Mod,Felipe,Marin
+Parcelado,A-2-PP-A200,UPPPO011,LA,Mod,Felipe,Marin
+Parcelado,A-2-PP-A200,UPPPO012,LA,Mod,Felipe,Marin
+Parcelado,A-2-PP-A200,UPPPO050,LA,Mod,Felipe,Marin
+PJ,A-3--CM-0300,BCOC20,S,Mod,George,Edmilson
+PJ,A-3--CM-0300,BCOC20,S,Mod,George,Edmilson
+PJ,A-3--CM-0300,BRBJ121,N,New,George,Edmilson
+PJ,A-3--CM-0300,BRBJ126,N,New,George,Edmilson
+PJ,A-3--CM-0300,BRBJ127,N,New,George,Edmilson
+PJ,A-3--CM-0300,BRBJ128,N,New,George,Edmilson
+PJ,A-3--CM-0300,BRBJ129,N,New,George,Edmilson
+PJ,A-3--CM-0300,BRBJ130,N,New,George,Edmilson
+PJ,A-3--CM-0300,BRBJ131,N,New,George,Edmilson
+PJ,A-3--CM-0300,BRBJ132,N,New,George,Edmilson
+PJ,A-3--CM-0300,BRBJ133,N,New,George,Edmilson
+PJ,A-3--CM-0300,BROJ08M,N,New,George,Edmilson
+PJ,A-3-CM-0900,BRBJ163,N,New,George,Edmilson
+PJ,A-3-CM-0900,BRBJ164,N,New,George,Edmilson
+PJ,A-3-CM-1100,BRBJ167,N,New,George,Edmilson
+PJ,A-3-CM-1300,BCOC21,s,Mod,George,Edmilson
+PJ,A-3-CM-1300,BCOC27,S,Mod,George,Edmilson
+PJ,A-3-CM-1300,BCOC28,S,Mod,George,Edmilson
+PJ,A-3-CM-1300,BRBJ103,N,New,George,Edmilson
+PJ,A-3-CM-1300,BRBJ104,N,New,George,Edmilson
+PF,A-3-FT-0200,BRBR004,LA,New,Cláudio,Edmilson
+PF,A-3-FT-0300,BRBI450,LA,Mod,Cláudio,Edmilson
+PF,A-3-FT-0400,BRBR007,LA,New,Cláudio,Edmilson
+PF,A-3-FT-4900,BCE61,USA,Mod,Júlio,Edmilson
+PF,A-3-FT-4900,BRBF034,LA,Mod,Júlio,Edmilson
+PF,A-3-FT-4900,BRBI217,LA,Mod,Júlio,Edmilson
+PF,A-3-FT-4900,BRBR010,LA,New,Júlio,Edmilson
+PF,A-3-FT-4900,BRBR011,LA,New,Júlio,Edmilson
+PF,A-3-FT-4900,BRBR012,LA,New,Júlio,Edmilson
+PF,A-3-FT-4900,BRBR019,LA,New,Júlio,Edmilson
+PF,A-3-FT-5200,BCE28,USA,Mod,Júlio,Edmilson
+PF,A-3-FT-5200,BCE30,USA,Mod,Júlio,Edmilson
+PF,A-3-FT-5200,BCE55,USA,Mod,Júlio,Edmilson
+PF,A-3-FT-5200,BCOCOMED,USA,Mod,Júlio,Edmilson
+PF,A-3-FT-5200,BCPCOME3,USA,Mod,Júlio,Edmilson
+PF,A-3-FT-5200,BCSVSLSR,USA,Mod,Júlio,Edmilson
+PF,A-3-FT-5200,BROR001S,LA,New,Júlio,Edmilson
+Parcelado,A-3-PP-A300,BRO4002,LA,New,Helio,Marin
+Parcelado,A-3-PP-A300,UPPPB001,LA,Mod,Helio,Marin
+Parcelado,A-3-PP-A300,UPPPB003,LA,Mod,Helio,Marin
+Parcelado,A-3-PP-A300,UPPPB201,LA,Mod,Helio,Marin
+Parcelado,A-3-PP-A300,UPPPB302,LA,Mod,Helio,Marin
+Parcelado,A-3-PP-A300,UPPPO001,LA,Mod,Helio,Marin
+Parcelado,A-3-PP-A300,UPPPO004,LA,Mod,Helio,Marin
+Parcelado,A-3-PP-A300,UPPPO005,LA,Mod,Helio,Marin
+Parcelado,A-3-PP-A300,UPPPO006,LA,Mod,Helio,Marin
+Parcelado,A-3-PP-A300,UPPPO00B,LA,Mod,Helio,Marin
+Parcelado,A-3-PP-A300,UPPPO00V,LA,Mod,Helio,Marin
+Parcelado,A-3-PP-A300,UPPPO00Y,LA,Mod,Helio,Marin
+Parcelado,A-3-PP-A400,BC210,USA,Mod,Helio,Marin
+Parcelado,A-3-PP-A400,UARPO065,LA,Mod,Helio,Marin
+Parcelado,A-3-PP-A400,UPPPB003,LA,Mod,Helio,Marin
+Parcelado,A-3-PP-A400,UPPPB302,LA,Mod,Helio,Marin
+Parcelado,A-3-PP-A500,UPPPB008,LA,New,Helio,Marin
+Parcelado,A-3-PP-A500,UPPPB009,LA,New,Helio,Marin
+Parcelado,A-3-PP-A500,UPPPB021,LA,Mod,Helio,Marin
+Parcelado,A-3-PP-A500,UPPPB201,LA,Mod,Helio,Marin
+Parcelado,A-3-PP-A600,UPPPB003,LA,Mod,Helio,Marin
+Parcelado,A-3-PP-A600,UPPPB302,LA,Mod,Helio,Marin
+Parcelado,A-3-PP-A700,UPPPB003,LA,Mod,Helio,Marin
+Parcelado,A-3-PP-A700,UPPPB302,LA,Mod,Helio,Marin
+Parcelado,A-3-PP-A900,UPPPB201,LA,Mod,Helio,Marin
+Parcelado,A-3-PP-A900, UPPPO004,LA,Mod,Helio,Marin
+Capitalization,A-4-CP-0400,BRO2FI0,LA,New   ,Resource,Homero
+Transformation,GAP02-01 ,BROS010,LA,New,,Edmilson
+Transformation,GAP02-02,BROS011,LA,New,artur,Edmilson
+Transformation,GAP02-03,BCE10,AUS,Mod,artur,Edmilson
+Transformation,GAP02-04,BRBI484,LA,New,artur,Edmilson
+Transformation,GAP02-05,BCSVSBLK,LA,New,artur,Edmilson
+Transformation,GAP02-06,BROS012,LA,New,artur,Edmilson
+Transformation,GAP02-07,BRBXXXX,LA,New,artur,Edmilson
+Transformation,GAP03-01,BRBI475,LA,New,Braulio,Edmilson
+Transformation,GAP03-02,BRBI476,LA,New,Braulio,Edmilson
+Transformation,GAP03-03,BRBI474,LA,New,Braulio,Edmilson
+Transformation,GAP03-04,BRBI477,LA,New,Braulio,Edmilson
+Transformation,GAP03-05,BRBI380,LA,New,Braulio,Edmilson
+Transformation,GAP03-06,BRBMQ01,LA,New,Lilian,Edmilson
+Transformation,GAP03-07,BCE28@,AUS,Mod,Lilian,Edmilson
+Transformation,GAP03-08,BC207,AUS,Mod,Leonardo,Edmilson
+Transformation,GAP03-09,BC215,AUS,Mod,Leonardo,Edmilson
+Transformation,GAP03-10,BRBI340,LA,New,Braulio,Edmilson
+Transformation,GAP03-100,BC200#,AUS,Mod,Lilian,Edmilson
+Transformation,GAP03-101,BC202,AUS,Mod,Lilian,Edmilson
+Transformation,GAP03-102,BC207,AUS,Mod,Lilian,Edmilson
+Transformation,GAP03-103,BC210@,AUS,Mod,Lilian,Edmilson
+Transformation,GAP03-104,BC21001S,AUS,Mod,Lilian,Edmilson
+Transformation,GAP03-105,BC21002S,AUS,Mod,Lilian,Edmilson
+Transformation,GAP03-106,BC21005S,AUS,Mod,Lilian,Edmilson
+Transformation,GAP03-107,BC21081S,AUS,Mod,Lilian,Edmilson
+Transformation,GAP03-108,BC28702,AUS,Mod,Lilian,Edmilson
+Transformation,GAP03-109,BC390,AUS,Mod,Lilian,Edmilson
+Transformation,GAP03-11,BRBI382,LA,New,Braulio,Edmilson
+Transformation,GAP03-110,BC4110,AUS,Mod,Lilian,Edmilson
+Transformation,GAP03-111,BC788,AUS,Mod,Lilian,Edmilson
+Transformation,GAP03-112,BC791M,AUS,Mod,Lilian,Edmilson
+Transformation,GAP03-113,BC445,AUS,Mod,Lilian,Edmilson
+Transformation,GAP03-114,BC950,AUS,Mod,Lilian,Edmilson
+Transformation,GAP03-115,BC951,AUS,Mod,Lilian,Edmilson
+Transformation,GAP03-116,BC970,AUS,Mod,Lilian,Edmilson
+Transformation,GAP03-117,PRE53,AUS,Mod,Lilian,Edmilson
+Transformation,GAP03-118,PR596,AUS,Mod,Lilian,Edmilson
+Transformation,GAP03-119,PRS251P,AUS,Mod,Lilian,Edmilson
+Transformation,GAP03-12,BRBR018,LA,New,Leonardo,Edmilson
+Transformation,GAP03-120,BC040,AUS,Mod,Leonardo,Edmilson
+Transformation,GAP03-13,BRBXX11,LA,New,,Edmilson
+Transformation,GAP03-14,BRBXX12,LA,New,,Edmilson
+Transformation,GAP03-15,BRBD034,LA,Mod,,Edmilson
+Transformation,GAP03-16,BRBH001,LA,Mod,,Edmilson
+Transformation,GAP03-17,BRBI005,LA,Mod,,Edmilson
+Transformation,GAP03-18,BRBI011,LA,Mod,,Edmilson
+Transformation,GAP03-19,BRBI012,LA,Mod,,Edmilson
+Transformation,GAP03-20,BRBI022,LA,Mod,,Edmilson
+Transformation,GAP03-21,BRBI055,LA,Mod,,Edmilson
+Transformation,GAP03-22,BRBI198,LA,Mod,,Edmilson
+Transformation,GAP03-23,BRBI204,LA,Mod,,Edmilson
+Transformation,GAP03-24,BRBI213,LA,Mod,,Edmilson
+Transformation,GAP03-25,BRBI328,LA,Mod,,Edmilson
+Transformation,GAP03-26,BRBI348,LA,Mod,,Edmilson
+Transformation,GAP03-27,BRBI368,LA,Mod,,Edmilson
+Transformation,GAP03-28,BRBI699,LA,Mod,,Edmilson
+Transformation,GAP03-29,BRBI811,LA,Mod,,Edmilson
+Transformation,GAP03-30,BRBJ007,LA,Mod,,Edmilson
+Transformation,GAP03-31,BRBJ023,LA,Mod,,Edmilson
+Transformation,GAP03-32,BRBP056,LA,Mod,,Edmilson
+Transformation,GAP03-33,BRB8002,LA,Mod,,Edmilson
+Transformation,GAP03-34,BRB9901,LA,Mod,,Edmilson
+Transformation,GAP03-35,BRCIMSTX,LA,Mod,,Edmilson
+Transformation,GAP03-36,BRCIUDF,LA,Mod,,Edmilson
+Transformation,GAP03-37,BRCJEMPR,LA,Mod,,Edmilson
+Transformation,GAP03-38,BRCNCCNI,LA,Mod,,Edmilson
+Transformation,GAP03-39,BRC9LBCM,LA,Mod,,Edmilson
+Transformation,GAP03-40,BROD002,LA,Mod,,Edmilson
+Transformation,GAP03-41,BROD202,LA,Mod,,Edmilson
+Transformation,GAP03-42,BROD900,LA,Mod,,Edmilson
+Transformation,GAP03-43,BRO9C30,LA,Mod,,Edmilson
+Transformation,GAP03-44,BRO9C50,LA,Mod,,Edmilson
+Transformation,GAP03-45,BCCEP02,AUS,Mod,Lilian,Edmilson
+Transformation,GAP03-46,BCE20,AUS,Mod,Lilian,Edmilson
+Transformation,GAP03-47,BCE28@,AUS,Mod,Lilian,Edmilson
+Transformation,GAP03-48,BCE30,AUS,Mod,Lilian,Edmilson
+Transformation,GAP03-49,BCE34,AUS,Mod,Lilian,Edmilson
+Transformation,GAP03-50,BCE35,AUS,Mod,Lilian,Edmilson
+Transformation,GAP03-51,BCE40,AUS,Mod,Lilian,Edmilson
+Transformation,GAP03-52,BCE45,AUS,Mod,Lilian,Edmilson
+Transformation,GAP03-53,BCE55,AUS,Mod,Lilian,Edmilson
+Transformation,GAP03-54,BCE66,AUS,Mod,Lilian,Edmilson
+Transformation,GAP03-55,BCE87,AUS,Mod,Lilian,Edmilson
+Transformation,GAP03-56,BCE94,AUS,Mod,Lilian,Edmilson
+Transformation,GAP03-57,BCGBCM,AUS,Mod,Lilian,Edmilson
+Transformation,GAP03-58,BCMASTER,AUS,Mod,Lilian,Edmilson
+Transformation,GAP03-59,BCPMSTIR,AUS,Mod,Lilian,Edmilson
+Transformation,GAP03-60,BCMSTRS,AUS,Mod,Lilian,Edmilson
+Transformation,GAP03-61,BCOC21,AUS,Mod,Lilian,Edmilson
+Transformation,GAP03-62,BCOC29,AUS,Mod,Lilian,Edmilson
+Transformation,GAP03-63,BCOC52,AUS,Mod,Lilian,Edmilson
+Transformation,GAP03-64,BCOC62,AUS,Mod,Lilian,Edmilson
+Transformation,GAP03-65,BCOI02,AUS,Mod,Lilian,Edmilson
+Transformation,GAP03-66,BCOI09,AUS,Mod,Lilian,Edmilson
+Transformation,GAP03-67,BCOI12,AUS,Mod,Lilian,Edmilson
+Transformation,GAP03-68,BCOI13,AUS,Mod,Lilian,Edmilson
+Transformation,GAP03-69,BCOI16,AUS,Mod,Lilian,Edmilson
+Transformation,GAP03-70,BCOI72,AUS,Mod,Lilian,Edmilson
+Transformation,GAP03-71,BCOI52,AUS,Mod,Lilian,Edmilson
+Transformation,GAP03-72,BCOL50,AUS,Mod,Lilian,Edmilson
+Transformation,GAP03-73,BCOL55,AUS,Mod,Lilian,Edmilson
+Transformation,GAP03-74,BCOK30,AUS,Mod,Lilian,Edmilson
+Transformation,GAP03-75,BCOK50,AUS,Mod,Lilian,Edmilson
+Transformation,GAP03-76,BCOM10,AUS,Mod,Lilian,Edmilson
+Transformation,GAP03-77,BCOQP00,AUS,Mod,Lilian,Edmilson
+Transformation,GAP03-78,BCOQW00,AUS,Mod,Lilian,Edmilson
+Transformation,GAP03-79,BCOS05,AUS,Mod,Lilian,Edmilson
+Transformation,GAP03-80,BCOS09,AUS,Mod,Lilian,Edmilson
+Transformation,GAP03-81,BCOS78,AUS,Mod,Lilian,Edmilson
+Transformation,GAP03-82,BCOT01,AUS,Mod,Lilian,Edmilson
+Transformation,GAP03-83,BCOT40,AUS,Mod,Lilian,Edmilson
+Transformation,GAP03-84,BCPCOMED,AUS,Mod,Lilian,Edmilson
+Transformation,GAP03-85,BCPCOMEU,AUS,Mod,Lilian,Edmilson
+Transformation,GAP03-86,BCPCOME1,AUS,Mod,Lilian,Edmilson
+Transformation,GAP03-87,BCPCOME2,AUS,Mod,Lilian,Edmilson
+Transformation,GAP03-88,BCPCOME3,AUS,Mod,Lilian,Edmilson
+Transformation,GAP03-89,BCP210CO,AUS,Mod,Lilian,Edmilson
+Transformation,GAP03-90,BCP210CU,AUS,Mod,Lilian,Edmilson
+Transformation,GAP03-91,BCS20,AUS,Mod,Lilian,Edmilson
+Transformation,GAP03-92,BCS21,AUS,Mod,Lilian,Edmilson
+Transformation,GAP03-93,BCS2130,AUS,Mod,Lilian,Edmilson
+Transformation,GAP03-94,BCS2190,AUS,Mod,Lilian,Edmilson
+Transformation,GAP03-95,BCS251P,AUS,Mod,Lilian,Edmilson
+Transformation,GAP03-96,BCSVWATT,AUS,Mod,Lilian,Edmilson
+Transformation,GAP03-97,BCTOBP01,AUS,Mod,Lilian,Edmilson
+Transformation,GAP03-98,BCWUPCCL,AUS,Mod,Lilian,Edmilson
+Transformation,GAP03-99,BC027,AUS,Mod,Lilian,Edmilson
+Transformation,GAP04-01,BRBI378,LA,New,Braulio,Edmilson
+Transformation,GAP04-02,BRBMQ02,LA,New,Braulio,Edmilson
+Transformation,GAP04-03,BRBXX15,LA,New,,Edmilson
+Transformation,GAP06-01,BRBXX21,LA,New,,Edmilson
+Transformation,GAP06-02,BROXX22,LA,New,,Edmilson
+Transformation,GAP06-03,BRBXX23,LA,New,,Edmilson
+Transformation,GAP06-04,BRBXX24,LA,New,,Edmilson
+Transformation,GAP06-05,BCE08,AUS,Mod,Lilian,Edmilson
+Transformation,GAP08-01,BCE20,AUS,Mod,,Edmilson
+Transformation,GAP08-02,BROXX16,LA,New,,Edmilson
+Transformation,GAP09-01,BRBR017,LA,New,artur,Edmilson
+Transformation,GAP09-02,BRBXX18,LA,New,artur,Edmilson
+Transformation,GAP09-03,BRBXX19,LA,New,artur,Edmilson
+Transformation,GAP09-04,BRBXX20,LA,New,artur,Edmilson
+Transformation,GAP10-01,BCE28@,AUS,Mod,Leonardo,Edmilson
+Transformation,GAP10-02,BCE28@,AUS,Mod,Lilian,Edmilson
+Transformation,GAP10-03,BCE30,AUS,Mod,,Edmilson
+Transformation,GAP10-04,BCE35,AUS,Mod,,Edmilson
+Transformation,GAP10-05,BCE54,AUS,Mod,,Edmilson
+Transformation,GAP10-06,BCE54,AUS,Mod,,Edmilson
+Transformation,GAP10-07,BCE55,AUS,Mod,,Edmilson
+Transformation,GAP11-01,BRBXX25,LA,New,artur,Edmilson
